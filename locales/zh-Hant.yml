@@ -50,10 +50,10 @@ zh-hant:
   beta_notice: 如果您已經安裝 IINA，您可以在偏好設定勾選「接收 Beta 版本更新」來轉換為 Beta 通道。
   show_downloads: 顯示下載
   latest_beta_release: 最新 beta 釋出版本
-  brew_cask_title: Install via Homebrew Cask
+  brew_cask_title: 透過 Homebrew Cask 安裝
   brew_cask_desc: "You may also install IINA via the community-maintained %{homebrew_link} cask by running:"
   browser_extensions: 瀏覽器擴充套件
-  browser_extensions_desc1: You can open various online media in IINA directly from web browsers by using our browser extensions.
+  browser_extensions_desc1: 您可以在瀏覽器中使用我們的瀏覽器擴充套件直接以 IINA 開啟多種線上媒體。
   browser_extensions_desc2: The Safari App Extension is already included in the IINA App bundle, and you may only need to enable it in Safari Preferences. Extensions for other browsers could be downloaded below.
   nightly_builds: Nightly builds
   nightly_builds_desc: Nightly builds are built based on each new commit on the develop branch. They are not signed so you need to manually change your system security settings to use nightly builds.
@@ -71,11 +71,11 @@ zh-hant:
   touchbar_desc: Advanced Touch Bar support including a QuickTime-like seek preview.
   pip_title: 畫中畫。
   pip_desc: IINA integrates the native Picture-in-Picture mode of macOS.
-  thumbnail_title: Thumbnail preview.
+  thumbnail_title: 縮圖預覽。
   thumbnail_desc: IINA generates thumbnail for the whole timeline. You can preview at any time point just like YouTube.
   interactive_title: Interactive cropping and selection.
   interactive_desc: The interactive mode makes it easy to select an arbitrary region on the video. You can crop the selected region afterward, or apply a delogo filter to hide watermarks or hard-coded subtitles.
-  music_mode_title: Music mode.
+  music_mode_title: 音樂模式。
   music_mode_desc: Though IINA is developed to be a video player, it also features a graceful music mode, allowing you to concentrate on music with additional information such as album artworks and artist names around. You can hide the album artwork and the playlist panel to obtain a minimal UI, or with all of them expanded to make it a fully functional music player.
   encoding_title: Superme 解碼能力。
   encoding_desc: 得益於 mpv，IINA 在 macOS 提供最佳的解碼效能。
